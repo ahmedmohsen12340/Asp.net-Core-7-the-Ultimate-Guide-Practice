@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "ScDjC2Y20KjReXWRJs2nA/D14AdNXVGw0ZyPvuw0q6k=",
+  "Source": "Assignment 14",
+  "BasePath": "_content/Assignment 14",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment 14\\wwwroot",
+      "Source": "Assignment 14",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\RazorsViews\\Assignment 14\\wwwroot\\",
+      "BasePath": "_content/Assignment 14",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\RazorsViews\\Assignment 14\\wwwroot\\StyleSheet.css",
+      "SourceId": "Assignment 14",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\RazorsViews\\Assignment 14\\wwwroot\\",
+      "BasePath": "_content/Assignment 14",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

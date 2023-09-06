@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "Hash": "FDSUkkvtB1YjcSUqtwcvMipgdtxfLQjUAzsDJaa/mys=",
+  "Source": "Assignment 16",
+  "BasePath": "_content/Assignment 16",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment 16\\wwwroot",
+      "Source": "Assignment 16",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\",
+      "BasePath": "_content/Assignment 16",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\main.js",
+      "SourceId": "Assignment 16",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\",
+      "BasePath": "_content/Assignment 16",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\MyCss.css",
+      "SourceId": "Assignment 16",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\",
+      "BasePath": "_content/Assignment 16",
+      "RelativePath": "MyCss.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyCss.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\StyleSheet.css",
+      "SourceId": "Assignment 16",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\wwwroot\\",
+      "BasePath": "_content/Assignment 16",
+      "RelativePath": "StyleSheet.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\StyleSheet.css"
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "UevNZ/e8trSl1OM6vo5avxdsZKhemcdRq7BQ/c7Ww3g=",
+  "Source": "ControllerTraining",
+  "BasePath": "_content/ControllerTraining",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ControllerTraining\\wwwroot",
+      "Source": "ControllerTraining",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\ControllerTraining\\wwwroot\\",
+      "BasePath": "_content/ControllerTraining",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\ControllerTraining\\wwwroot\\MBA-Brochure.pdf",
+      "SourceId": "ControllerTraining",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\ControllerTraining\\wwwroot\\",
+      "BasePath": "_content/ControllerTraining",
+      "RelativePath": "MBA-Brochure.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MBA-Brochure.pdf"
+    }
+  ]
+}

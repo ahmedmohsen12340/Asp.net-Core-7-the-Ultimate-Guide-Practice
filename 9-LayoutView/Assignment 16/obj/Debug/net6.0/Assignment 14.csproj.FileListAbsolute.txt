@@ -1,0 +1,29 @@
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\Assignment 14.staticwebassets.runtime.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\Assignment 14.exe
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\Assignment 14.deps.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\Assignment 14.runtimeconfig.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\Assignment 14.dll
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\bin\Debug\net6.0\Assignment 14.pdb
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.csproj.AssemblyReference.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.AssemblyInfoInputs.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.AssemblyInfo.cs
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.RazorAssemblyInfo.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.RazorAssemblyInfo.cs
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets\msbuild.Assignment 14.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment 14.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 14.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment 14.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\scopedcss\bundle\Assignment 14.styles.css
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.dll
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\refint\Assignment 14.dll
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.pdb
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\Assignment 14.genruntimeconfig.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\RazorsViews\Assignment 14\obj\Debug\net6.0\ref\Assignment 14.dll

@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Routing\\RoutingTraining\\wwwroot\\Syndicate.jpg",
+      "PackagePath": "staticwebassets\\Syndicate.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.RoutingTraining.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.RoutingTraining.props",
+      "PackagePath": "build\\RoutingTraining.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.RoutingTraining.props",
+      "PackagePath": "buildMultiTargeting\\RoutingTraining.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.RoutingTraining.props",
+      "PackagePath": "buildTransitive\\RoutingTraining.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

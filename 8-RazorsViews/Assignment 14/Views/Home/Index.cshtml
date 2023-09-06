@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CityWeather>
+
+<!Doctype html>
+<head>
+    <title>Weather App</title>
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="container flex ">
+        @foreach (var city in Model)
+        {
+            <div class="box w-30 margin-auto margin-top-200" style="background-color:yellowgreen">
+                <h2>@city.CityName</h2>
+                <p>@city.DateAndTime.Value.ToShortTimeString()</p>
+                <p>@city.TemperatureFahrenheit</p>
+                @{
+                    string details = $"/weather/{city.CityUniqueCode}";
+                }
+                <p><a href=@details>Details</a></p>
+            </div>
+        }
+    </div>
+</body>

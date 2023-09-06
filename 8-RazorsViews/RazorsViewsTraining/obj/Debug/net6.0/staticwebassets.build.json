@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "BEcrM7Idm7sCU9YI7z6Yl3HlVR3oFXQj78sa2DugYo8=",
+  "Source": "RazorsViewsTraining",
+  "BasePath": "_content/RazorsViewsTraining",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RazorsViewsTraining\\wwwroot",
+      "Source": "RazorsViewsTraining",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\RazorsViews\\RazorsViewsTraining\\wwwroot\\",
+      "BasePath": "_content/RazorsViewsTraining",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}

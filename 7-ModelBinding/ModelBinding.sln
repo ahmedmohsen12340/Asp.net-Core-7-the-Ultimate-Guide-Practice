@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ModelBindingTraining", "ModelBindingTraining\ModelBindingTraining.csproj", "{4C84A654-CEA9-4ACF-9EBD-4AF19CA2D682}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 12", "Assignment 12\Assignment 12.csproj", "{1C1624F4-36AD-44B7-847F-EB1A5622DC09}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C84A654-CEA9-4ACF-9EBD-4AF19CA2D682}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C84A654-CEA9-4ACF-9EBD-4AF19CA2D682}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C84A654-CEA9-4ACF-9EBD-4AF19CA2D682}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C84A654-CEA9-4ACF-9EBD-4AF19CA2D682}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1C1624F4-36AD-44B7-847F-EB1A5622DC09}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1C1624F4-36AD-44B7-847F-EB1A5622DC09}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1C1624F4-36AD-44B7-847F-EB1A5622DC09}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1C1624F4-36AD-44B7-847F-EB1A5622DC09}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {1B6C7A3B-C049-4F73-97A9-FA6EF61A6309}
+	EndGlobalSection
+EndGlobal

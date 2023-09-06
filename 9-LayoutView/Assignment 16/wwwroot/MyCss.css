@@ -1,0 +1,80 @@
+﻿*{
+    box-sizing:border-box;
+}
+body {
+    font-family: 'Cairo', sans-serif;
+    background-image: linear-gradient(60deg,#424242,#eeeeee);
+    height :100vh;
+    margin: 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.main {
+    display: flex;
+    justify-content: space-around;
+    height: 100vh;
+    flex-wrap: wrap;
+    align-items: center;
+}
+.card {
+    display: flex;
+    flex-direction: row;
+    width: 350px;
+    background-color: #eee;
+    border-radius: 20px;
+    display: flex;
+    height: 250px;
+    padding: 20px;
+    justify-content: space-between;
+    align-items: center;
+    margin:30px;
+    transition:0.5s;
+}
+.card p{
+    font-size: 25px;
+}
+.card p .f{
+    font-size: 35px;
+    font-weight:900;
+    color: #00000070;
+}
+.card div .details{
+    background-color:white;
+    text-align:center;
+    border-radius:10px;
+    transition:0.5s;
+}
+.card div .details:hover{
+    transform:scale(1.1);
+}
+
+.card div .details a {
+    text-decoration: none;
+    color: black;
+}
+
+
+.middle{
+    width :350px;
+    margin : auto;
+}
+.link{
+    text-align: center;
+}
+
+/*set colors*/
+
+
+.blue{
+    background-color: lightblue;
+}
+
+.yellow {
+    background-color: #fdd835;
+}
+
+.red {
+    background-color: lightcoral;
+}

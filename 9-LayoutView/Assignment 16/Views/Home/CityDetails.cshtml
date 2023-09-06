@@ -1,0 +1,16 @@
+﻿@model CityWeather
+@{
+    ViewBag.Title = "City Details";
+}
+<div class="card middle">
+    <div>
+        <h2>@Model.CityName</h2>
+        <p>@Model.DateAndTime.Value.ToShortTimeString()</p>
+    </div>
+    <div>
+        <p><span class="temp">@Model.TemperatureFahrenheit</span><span class="f"> F°</span></p>
+    </div>
+</div>
+<div class="middle link">
+    <a href="/">Back to Weather Home Page</a>
+</div>

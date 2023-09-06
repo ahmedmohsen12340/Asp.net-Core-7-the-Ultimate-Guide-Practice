@@ -1,0 +1,24 @@
+﻿@model IEnumerable<CityWeather>
+
+<!Doctype html>
+@{
+    ViewBag.Title = "Home";
+}    
+<div class="main">
+        @foreach (var city in Model)
+        {
+            <div class="card">
+                <div>
+                    <h2>@city.CityName</h2>
+                    <p>@city.DateAndTime.Value.ToShortTimeString()</p>
+                    @{
+                        string details = $"/weather/{city.CityUniqueCode}";
+                    }
+                    <p class="details"><a href=@details>Details</a></p>
+                </div>
+                <div>
+                <p><span class="temp">@city.TemperatureFahrenheit</span><span class="f"> F°</span></p>
+                </div>
+            </div>
+        }
+</div>

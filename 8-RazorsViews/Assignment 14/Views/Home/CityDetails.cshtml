@@ -1,0 +1,16 @@
+﻿@model CityWeather
+
+<!Doctype html>
+<head>
+    <title>Weather App</title>
+    <meta charset="utf-8" />
+    <link href="~/StyleSheet.css" rel="stylesheet" />
+</head>
+<body>
+    <div class="box margin-top-200 flex w-50 margin-auto" style="background-color:palegreen">
+        <h2>@Model.CityName</h2>
+        <p>@Model.DateAndTime.Value.ToShortTimeString()</p>
+        <p>@Model.TemperatureFahrenheit</p>
+    </div>
+    <div class="margin-left"><a href="/">Back to weather Home Page</a></div>
+</body>

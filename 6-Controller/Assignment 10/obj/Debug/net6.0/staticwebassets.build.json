@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "J8Z0GtZarSjx8OIjC9BEn8W8NsjnPsaGFKrjSnqO1ec=",
+  "Source": "Assignment 10",
+  "BasePath": "_content/Assignment 10",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment 10\\wwwroot",
+      "Source": "Assignment 10",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\Assignment 10\\wwwroot\\",
+      "BasePath": "_content/Assignment 10",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\Assignment 10\\wwwroot\\MBA-Brochure.pdf",
+      "SourceId": "Assignment 10",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\Assignment 10\\wwwroot\\",
+      "BasePath": "_content/Assignment 10",
+      "RelativePath": "MBA-Brochure.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MBA-Brochure.pdf"
+    }
+  ]
+}

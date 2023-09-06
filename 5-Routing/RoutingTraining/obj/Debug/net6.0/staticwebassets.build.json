@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "D8sdSxqvl5ORXK/ZSvqRxoc3nzncdEfgCnBcwdk/v9M=",
+  "Source": "RoutingTraining",
+  "BasePath": "_content/RoutingTraining",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "RoutingTraining\\wwwroot",
+      "Source": "RoutingTraining",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Routing\\RoutingTraining\\wwwroot\\",
+      "BasePath": "_content/RoutingTraining",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Routing\\RoutingTraining\\wwwroot\\Syndicate.jpg",
+      "SourceId": "RoutingTraining",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Routing\\RoutingTraining\\wwwroot\\",
+      "BasePath": "_content/RoutingTraining",
+      "RelativePath": "Syndicate.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Syndicate.jpg"
+    }
+  ]
+}

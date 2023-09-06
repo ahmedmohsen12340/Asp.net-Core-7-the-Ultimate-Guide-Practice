@@ -1,0 +1,26 @@
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\Assignment 6.exe
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\Assignment 6.deps.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\Assignment 6.runtimeconfig.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\Assignment 6.dll
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\bin\Debug\net6.0\Assignment 6.pdb
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.csproj.AssemblyReference.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.AssemblyInfoInputs.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.AssemblyInfo.cs
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.Assignment 6.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment 6.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 6.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment 6.props
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\scopedcss\bundle\Assignment 6.styles.css
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.dll
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\refint\Assignment 6.dll
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.pdb
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\Assignment 6.genruntimeconfig.cache
+E:\Courses\Programming\Udemy .net Core 7\My Work\middleWare\Assignment 6\obj\Debug\net6.0\ref\Assignment 6.dll

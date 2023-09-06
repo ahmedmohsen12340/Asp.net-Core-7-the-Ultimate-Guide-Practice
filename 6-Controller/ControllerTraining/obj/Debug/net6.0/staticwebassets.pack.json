@@ -1,0 +1,25 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\ControllerTraining\\wwwroot\\MBA-Brochure.pdf",
+      "PackagePath": "staticwebassets\\MBA-Brochure.pdf"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.ControllerTraining.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.ControllerTraining.props",
+      "PackagePath": "build\\ControllerTraining.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.ControllerTraining.props",
+      "PackagePath": "buildMultiTargeting\\ControllerTraining.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.ControllerTraining.props",
+      "PackagePath": "buildTransitive\\ControllerTraining.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

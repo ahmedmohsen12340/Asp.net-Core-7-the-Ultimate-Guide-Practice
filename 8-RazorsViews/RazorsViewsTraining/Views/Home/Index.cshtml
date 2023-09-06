@@ -1,0 +1,31 @@
+﻿@using RazorsViewsTraining.Models;
+@model Person
+@{
+    string title = "Razor View";
+    string welcome = "Welcome to our webSite";
+    string x = $"<script>alert(`{welcome}`)</script>";
+    //Person? person = (Person?)ViewData["person"];
+    Person? person = ViewBag.person;
+}
+<!Doctype html>
+<html>
+    <head>
+        <title>@title</title>
+        <meta charset="utf-8" />
+    </head>
+    <body>
+        <h1>@welcome</h1>
+    @if (Model.Id == 5)
+    {
+        <p>hello @Model.Name</p>
+        //@:hello everyBody
+        //<text>How are you?</text>
+        //<script>alert(`welcome`)</script>
+        //@Html.Raw(x);
+    }
+    else
+    {
+        <p>you Can't log in</p>
+    }
+</body>
+</html>
