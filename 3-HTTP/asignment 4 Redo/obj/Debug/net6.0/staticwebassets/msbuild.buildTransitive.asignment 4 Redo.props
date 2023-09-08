@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\asignment 4 Redo.props" />
+</Project>

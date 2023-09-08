@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8TN5u3LbftGfINtlJoAaDsHOXcSTYNk64b2jD2KAuaJy+xExYwPDbwIvC2P7l2oFI/Udj6MQWmQ0RHDxlTo3GA==",
+  "dgSpecHash": "kb+jjOjY1Dz7pAdLUEtqd97FcUe9iXxqgAvNnQvsLnlEItpKYCT+sT8t2W0GCKR/Ksuf5JIp6C0sVR/TYloX9g==",
   "success": true,
-  "projectFilePath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Section 2\\MyWebApp\\MyWebApp\\MyWebApp.csproj",
+  "projectFilePath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\3-HTTP\\MyWebApp\\MyWebApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

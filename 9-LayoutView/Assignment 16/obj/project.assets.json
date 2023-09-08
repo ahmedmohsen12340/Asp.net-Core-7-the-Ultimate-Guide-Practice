@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\Assignment 16.csproj",
+      "projectUniqueName": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment 16\\Assignment 16.csproj",
       "projectName": "Assignment 16",
-      "projectPath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\Assignment 16.csproj",
+      "projectPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment 16\\Assignment 16.csproj",
       "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-      "outputPath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\LayoutView\\Assignment 14\\obj\\",
+      "outputPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment 16\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",

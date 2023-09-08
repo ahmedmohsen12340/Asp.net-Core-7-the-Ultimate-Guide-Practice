@@ -1,0 +1,25 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\asignment 4 Redo.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\asignment 4 Redo.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\asignment 4 Redo.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\asignment 4 Redo.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\bin\Debug\net6.0\asignment 4 Redo.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets\msbuild.asignment 4 Redo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets\msbuild.build.asignment 4 Redo.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.asignment 4 Redo.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.asignment 4 Redo.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\scopedcss\bundle\asignment 4 Redo.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\refint\asignment 4 Redo.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\asignment 4 Redo.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\3-HTTP\asignment 4 Redo\obj\Debug\net6.0\ref\asignment 4 Redo.dll
