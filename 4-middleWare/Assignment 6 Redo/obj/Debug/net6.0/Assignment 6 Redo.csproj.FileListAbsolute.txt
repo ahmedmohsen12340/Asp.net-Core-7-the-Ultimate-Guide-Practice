@@ -1,0 +1,25 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\Assignment 6 Redo.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\Assignment 6 Redo.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\Assignment 6 Redo.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\Assignment 6 Redo.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\bin\Debug\net6.0\Assignment 6 Redo.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets\msbuild.Assignment 6 Redo.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment 6 Redo.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 6 Redo.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment 6 Redo.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\scopedcss\bundle\Assignment 6 Redo.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\refint\Assignment 6 Redo.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\Assignment 6 Redo.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\4-middleWare\Assignment 6 Redo\obj\Debug\net6.0\ref\Assignment 6 Redo.dll

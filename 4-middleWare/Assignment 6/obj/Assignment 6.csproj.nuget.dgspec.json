@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\middleWare\\Assignment 6\\Assignment 6.csproj": {}
+    "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6\\Assignment 6.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\middleWare\\Assignment 6\\Assignment 6.csproj": {
+    "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6\\Assignment 6.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\middleWare\\Assignment 6\\Assignment 6.csproj",
+        "projectUniqueName": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6\\Assignment 6.csproj",
         "projectName": "Assignment 6",
-        "projectPath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\middleWare\\Assignment 6\\Assignment 6.csproj",
+        "projectPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6\\Assignment 6.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\middleWare\\Assignment 6\\obj\\",
+        "outputPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -22,7 +22,6 @@
         ],
         "sources": {
           "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "C:\\Program Files\\dotnet\\sdk\\7.0.306\\Sdks\\Microsoft.NET.Sdk.Web\\library-packs": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -59,7 +58,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.306\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
         }
       }
     }
