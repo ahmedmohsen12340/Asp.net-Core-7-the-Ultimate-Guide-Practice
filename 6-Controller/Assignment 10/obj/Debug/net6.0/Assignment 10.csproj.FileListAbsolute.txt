@@ -25,3 +25,29 @@ E:\Courses\Programming\Udemy .net Core 7\My Work\Controller\Assignment 10\obj\De
 E:\Courses\Programming\Udemy .net Core 7\My Work\Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.pdb
 E:\Courses\Programming\Udemy .net Core 7\My Work\Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.genruntimeconfig.cache
 E:\Courses\Programming\Udemy .net Core 7\My Work\Controller\Assignment 10\obj\Debug\net6.0\ref\Assignment 10.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\Assignment 10.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\Assignment 10.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\Assignment 10.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\Assignment 10.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\Assignment 10.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\bin\Debug\net6.0\Assignment 10.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets\msbuild.Assignment 10.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment 10.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 10.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment 10.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\scopedcss\bundle\Assignment 10.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\refint\Assignment 10.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\Assignment 10.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\6-Controller\Assignment 10\obj\Debug\net6.0\ref\Assignment 10.dll

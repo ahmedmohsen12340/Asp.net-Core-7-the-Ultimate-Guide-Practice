@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "vBK02LfzwAg2n8EH97rfTHIW2kasAHcpPbv+dJiVXSw=",
+  "Source": "Asssignment10Redo",
+  "BasePath": "_content/Asssignment10Redo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Asssignment10Redo\\wwwroot",
+      "Source": "Asssignment10Redo",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\6-Controller\\Asssignment10Redo\\wwwroot\\",
+      "BasePath": "_content/Asssignment10Redo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\6-Controller\\Asssignment10Redo\\wwwroot\\MBA-Brochure.pdf",
+      "SourceId": "Asssignment10Redo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\6-Controller\\Asssignment10Redo\\wwwroot\\",
+      "BasePath": "_content/Asssignment10Redo",
+      "RelativePath": "MBA-Brochure.pdf",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MBA-Brochure.pdf"
+    }
+  ]
+}

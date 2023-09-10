@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "kSUrlmbIHevjf4pFMNHoRLpAHGOoXtkYHqNEMEsjgdeuUeIgd+Y4CpCepu3CXODZTSIIC4xl8cdB4ZmJTLq/lA==",
+  "dgSpecHash": "cC7t/cgu/3BksVqbJe1H795vPiPKwPONIrs85nDSRV9ztk5BQ4Nu4a6LuYHKCFHmgAM8OD0wtO8RRcFQ2xU6Lw==",
   "success": true,
-  "projectFilePath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\Controller\\ControllerTraining\\ControllerTraining.csproj",
+  "projectFilePath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\6-Controller\\ControllerTraining\\ControllerTraining.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
