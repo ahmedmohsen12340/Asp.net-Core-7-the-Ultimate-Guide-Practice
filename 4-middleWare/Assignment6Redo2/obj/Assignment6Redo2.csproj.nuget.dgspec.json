@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6 Redo\\Assignment 6 Redo.csproj": {}
+    "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment6Redo2\\Assignment6Redo2.csproj": {}
   },
   "projects": {
-    "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6 Redo\\Assignment 6 Redo.csproj": {
+    "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment6Redo2\\Assignment6Redo2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6 Redo\\Assignment 6 Redo.csproj",
-        "projectName": "Assignment 6 Redo",
-        "projectPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6 Redo\\Assignment 6 Redo.csproj",
+        "projectUniqueName": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment6Redo2\\Assignment6Redo2.csproj",
+        "projectName": "Assignment6Redo2",
+        "projectPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment6Redo2\\Assignment6Redo2.csproj",
         "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
-        "outputPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6 Redo\\obj\\",
+        "outputPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment6Redo2\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,12 +39,6 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "dependencies": {
-            "Microsoft.AspNetCore.Http.Abstractions": {
-              "target": "Package",
-              "version": "[2.2.0, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

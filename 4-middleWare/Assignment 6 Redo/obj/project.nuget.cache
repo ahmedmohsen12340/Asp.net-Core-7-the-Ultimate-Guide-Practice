@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "CS7taF2jAX2SID1y7qMY14VpdWvQFw3wac5EFrGraj1bUqhOq9Pb3SZlKyneqV4BL+TPPWdQx/Za59OGKvlx5Q==",
+  "dgSpecHash": "KBsPg5ijcdRMhN0BwVaJnkuzSu7G+vKxw/B8U81n1Z0k29q/UQlz2EHYXSLCqmOHEcq7Bq3372btOTU28eMCpA==",
   "success": true,
   "projectFilePath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\4-middleWare\\Assignment 6 Redo\\Assignment 6 Redo.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.http.abstractions\\2.2.0\\microsoft.aspnetcore.http.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.aspnetcore.http.features\\2.2.0\\microsoft.aspnetcore.http.features.2.2.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512",
+    "C:\\Users\\ahmed\\.nuget\\packages\\system.text.encodings.web\\4.5.0\\system.text.encodings.web.4.5.0.nupkg.sha512"
+  ],
   "logs": []
 }
