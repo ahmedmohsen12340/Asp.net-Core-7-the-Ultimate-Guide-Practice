@@ -24,3 +24,28 @@ E:\Courses\Programming\Udemy .net Core 7\My Work\Routing\Assignment 8\obj\Debug\
 E:\Courses\Programming\Udemy .net Core 7\My Work\Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.pdb
 E:\Courses\Programming\Udemy .net Core 7\My Work\Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.genruntimeconfig.cache
 E:\Courses\Programming\Udemy .net Core 7\My Work\Routing\Assignment 8\obj\Debug\net6.0\ref\Assignment 8.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\Assignment 8.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\Assignment 8.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\Assignment 8.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\Assignment 8.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\bin\Debug\net6.0\Assignment 8.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets\msbuild.Assignment 8.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment 8.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 8.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment 8.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\scopedcss\bundle\Assignment 8.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\refint\Assignment 8.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\Assignment 8.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\5-Routing\Assignment 8\obj\Debug\net6.0\ref\Assignment 8.dll

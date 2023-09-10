@@ -5,7 +5,9 @@ VisualStudioVersion = 17.6.33829.357
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RoutingTraining", "RoutingTraining\RoutingTraining.csproj", "{CAAC89DD-000F-46EA-959F-E3B88B36FCDB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment 8", "Assignment 8\Assignment 8.csproj", "{F0E8A548-6601-4FDA-B07D-611759CF9C5D}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Assignment 8", "Assignment 8\Assignment 8.csproj", "{F0E8A548-6601-4FDA-B07D-611759CF9C5D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Assignment8Redo", "Assignment8Redo\Assignment8Redo.csproj", "{E3C493BE-EE47-49C9-B140-2122A277B3C1}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -21,6 +23,10 @@ Global
 		{F0E8A548-6601-4FDA-B07D-611759CF9C5D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F0E8A548-6601-4FDA-B07D-611759CF9C5D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F0E8A548-6601-4FDA-B07D-611759CF9C5D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3C493BE-EE47-49C9-B140-2122A277B3C1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3C493BE-EE47-49C9-B140-2122A277B3C1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3C493BE-EE47-49C9-B140-2122A277B3C1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3C493BE-EE47-49C9-B140-2122A277B3C1}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
