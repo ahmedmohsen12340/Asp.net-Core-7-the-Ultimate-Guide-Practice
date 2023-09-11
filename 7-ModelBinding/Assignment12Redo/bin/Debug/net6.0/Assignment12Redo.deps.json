@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Assignment12Redo/1.0.0": {
+        "runtime": {
+          "Assignment12Redo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Assignment12Redo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

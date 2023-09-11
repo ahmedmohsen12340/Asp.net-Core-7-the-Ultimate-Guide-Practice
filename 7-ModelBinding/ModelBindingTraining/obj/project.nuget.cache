@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "8qs/n097PX/PZMRqHGqCBztFe3D94HLWo4VSJgJFMGSos0NGjBGQ2g3BHYauKnh0I17b6NOKwSfuEDG+kkC6nQ==",
+  "dgSpecHash": "VZt7X3x7UX/LacNjFaui+fGHJK6Uw7W/smGYjZygqU9b4o8YCPqVrzoxf6nqJhLZAzUWNE6tyupYpvdcT/7FWw==",
   "success": true,
-  "projectFilePath": "E:\\Courses\\Programming\\Udemy .net Core 7\\My Work\\ModelBinding\\ModelBindingTraining\\ModelBindingTraining.csproj",
+  "projectFilePath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\7-ModelBinding\\ModelBindingTraining\\ModelBindingTraining.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
