@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "N9AzJ3og58HAQh8V13ime+T+uhnzbF7RhpY/LS5emqg=",
+  "Source": "Assignment16Redo",
+  "BasePath": "_content/Assignment16Redo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment16Redo\\wwwroot",
+      "Source": "Assignment16Redo",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\",
+      "BasePath": "_content/Assignment16Redo",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\MyFramework.css",
+      "SourceId": "Assignment16Redo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\",
+      "BasePath": "_content/Assignment16Redo",
+      "RelativePath": "MyFramework.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyFramework.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\Normalization.css",
+      "SourceId": "Assignment16Redo",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\",
+      "BasePath": "_content/Assignment16Redo",
+      "RelativePath": "Normalization.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Normalization.css"
+    }
+  ]
+}

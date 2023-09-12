@@ -1,0 +1,34 @@
+﻿@model List<Cityweather>;
+@{
+    ViewBag.Title = "Home";
+}
+@{
+    string GetColor(int? x)
+    {
+        return x switch
+        {
+            (< 44) => "blue-700",
+            (> 44) and (< 74) => "yellow-700",
+            (> 74) => "red-700",
+            _ => ""
+        };
+    }
+}
+<div class="main flex-center flex-row-wrap">
+    @foreach(var card in Model)
+    {
+        <div class="card rect-roundedges flex-row-spacearound w-300px mar-10px pad-20px @GetColor(card.TemperatureFahrenheit)">
+            <div class="left">
+                <h2>@card.CityName</h2>
+                <p>@card.DateAndTime?.ToString("h:mm tt")</p>
+                @{
+                    string cityDetails = $"/weather/{card.CityUniqueCode}";
+                }
+                <a href= @cityDetails>Details</a>
+            </div>
+            <div class="right flex-center">
+                <p>@card.TemperatureFahrenheit<sup>&deg;F</sup></p>
+            </div>
+        </div>
+    }
+</div>

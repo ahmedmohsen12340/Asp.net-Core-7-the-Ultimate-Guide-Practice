@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\MyFramework.css",
+      "PackagePath": "staticwebassets\\MyFramework.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\9-LayoutView\\Assignment16Redo\\wwwroot\\Normalization.css",
+      "PackagePath": "staticwebassets\\Normalization.css"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.Assignment16Redo.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.Assignment16Redo.props",
+      "PackagePath": "build\\Assignment16Redo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.Assignment16Redo.props",
+      "PackagePath": "buildMultiTargeting\\Assignment16Redo.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.Assignment16Redo.props",
+      "PackagePath": "buildTransitive\\Assignment16Redo.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
