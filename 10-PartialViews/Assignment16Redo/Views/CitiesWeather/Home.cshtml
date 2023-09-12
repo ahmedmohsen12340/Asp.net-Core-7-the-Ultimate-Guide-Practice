@@ -1,0 +1,12 @@
+﻿@model List<Cityweather>;
+@{
+    ViewBag.Title = "Home";
+}
+<div class="main flex-center flex-row-wrap">
+    @foreach(var card in Model)
+    {
+        @* <partial name="PartialCityDetails" model="card"></partial> *@
+        @* @await Html.PartialAsync("PartialCityDetails",card); *@
+        await Html.RenderPartialAsync("PartialCityDetails",card);
+    }
+</div>
