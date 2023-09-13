@@ -1,0 +1,22 @@
+﻿@model Cityweather;
+@{
+    string GetColor(int? x)
+    {
+        return x switch
+        {
+            (< 44) => "blue-700",
+            (> 44) and (< 74) => "yellow-700",
+            (> 74) => "red-700",
+            _ => ""
+        };
+    }
+}
+<div class="Model rect-roundedges flex-row-spacearound w-300px mar-10px pad-20px @GetColor(Model.TemperatureFahrenheit)">
+    <div class="left">
+        <h2>@Model.CityName</h2>
+        <p>@Model.DateAndTime?.ToString("h:mm tt")</p>
+    </div>
+    <div class="right flex-center">
+        <p>@Model.TemperatureFahrenheit<sup>&deg;F</sup></p>
+    </div>
+</div>

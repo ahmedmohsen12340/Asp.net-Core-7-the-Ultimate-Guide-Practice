@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "B9jVrm1gS6a4UI9Kw8HmU2+XG1Szo78ZqkUyShDkopM=",
+  "Source": "Assignment20",
+  "BasePath": "_content/Assignment20",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment20\\wwwroot",
+      "Source": "Assignment20",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\11-ViewComponent\\Assignment20\\wwwroot\\",
+      "BasePath": "_content/Assignment20",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\11-ViewComponent\\Assignment20\\wwwroot\\MyFramework.css",
+      "SourceId": "Assignment20",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\11-ViewComponent\\Assignment20\\wwwroot\\",
+      "BasePath": "_content/Assignment20",
+      "RelativePath": "MyFramework.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyFramework.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\11-ViewComponent\\Assignment20\\wwwroot\\Normalization.css",
+      "SourceId": "Assignment20",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\11-ViewComponent\\Assignment20\\wwwroot\\",
+      "BasePath": "_content/Assignment20",
+      "RelativePath": "Normalization.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Normalization.css"
+    }
+  ]
+}

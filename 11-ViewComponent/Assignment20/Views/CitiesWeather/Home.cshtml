@@ -1,0 +1,16 @@
+﻿@model List<Cityweather>;
+@{
+    ViewBag.Title = "Home";
+}
+<div class="main flex-center flex-row-wrap">
+    @foreach(var x in Model)
+    {
+        <div class="flex-column-center">
+            @await Component.InvokeAsync("City",x)
+            @{
+                string s = $"/weather/{x.CityUniqueCode}";
+             }
+            <a href=@s>Details</a>
+        </div>
+    }
+</div>
