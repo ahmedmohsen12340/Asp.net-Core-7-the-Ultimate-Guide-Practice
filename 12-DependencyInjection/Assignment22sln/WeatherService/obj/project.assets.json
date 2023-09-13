@@ -1,0 +1,91 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "ServicesContract/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/ServicesContract.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServicesContract.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "ServicesContract/1.0.0": {
+      "type": "project",
+      "path": "../ServicesContract/ServicesContract.csproj",
+      "msbuildProject": "../ServicesContract/ServicesContract.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "ServicesContract >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\ahmed\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\WeatherService\\Services.csproj",
+      "projectName": "Services",
+      "projectPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\WeatherService\\Services.csproj",
+      "packagesPath": "C:\\Users\\ahmed\\.nuget\\packages\\",
+      "outputPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\WeatherService\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\ahmed\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\ServicesContract\\ServicesContract.csproj": {
+              "projectPath": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\ServicesContract\\ServicesContract.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

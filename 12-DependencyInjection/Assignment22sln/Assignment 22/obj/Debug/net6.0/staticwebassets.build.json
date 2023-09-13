@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "PnFud/4CrZEqHNDEXk4kvv6oJwOFVjRT/9It4qnRJfQ=",
+  "Source": "Assignment 22",
+  "BasePath": "_content/Assignment 22",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment 22\\wwwroot",
+      "Source": "Assignment 22",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\Assignment 22\\wwwroot\\",
+      "BasePath": "_content/Assignment 22",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\Assignment 22\\wwwroot\\MyFramework.css",
+      "SourceId": "Assignment 22",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\Assignment 22\\wwwroot\\",
+      "BasePath": "_content/Assignment 22",
+      "RelativePath": "MyFramework.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyFramework.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\Assignment 22\\wwwroot\\Normalization.css",
+      "SourceId": "Assignment 22",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\Assignment22sln\\Assignment 22\\wwwroot\\",
+      "BasePath": "_content/Assignment 22",
+      "RelativePath": "Normalization.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Normalization.css"
+    }
+  ]
+}

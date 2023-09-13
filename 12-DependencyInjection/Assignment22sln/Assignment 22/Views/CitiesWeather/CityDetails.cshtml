@@ -1,0 +1,12 @@
+﻿@model Cityweather;
+@{
+    ViewBag.Title = Model.CityName;
+} 
+
+@{
+    var x = Model;
+}
+<div class="flex-column-center">
+    @await Component.InvokeAsync("City", x)
+    <a href="~/">Back To Home</a>
+</div>

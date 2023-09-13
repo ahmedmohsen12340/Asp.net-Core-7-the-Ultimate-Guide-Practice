@@ -1,0 +1,34 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Assignment 22.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Assignment 22.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Assignment 22.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Assignment 22.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Assignment 22.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Assignment 22.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets\msbuild.Assignment 22.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets\msbuild.build.Assignment 22.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Assignment 22.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Assignment 22.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\scopedcss\bundle\Assignment 22.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\refint\Assignment 22.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\ref\Assignment 22.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\Assignment22sln\Assignment 22\obj\Debug\net6.0\Assignment 22.csproj.CopyComplete
