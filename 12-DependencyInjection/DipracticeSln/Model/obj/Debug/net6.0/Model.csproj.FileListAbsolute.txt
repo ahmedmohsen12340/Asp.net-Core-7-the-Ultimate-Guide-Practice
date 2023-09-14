@@ -1,0 +1,11 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\bin\Debug\net6.0\Model.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\bin\Debug\net6.0\Model.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\bin\Debug\net6.0\Model.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\Model.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\Model.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\Model.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\Model.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\Model.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\refint\Model.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\Model.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\12-DependencyInjection\ConfigurationSln\Model\obj\Debug\net6.0\ref\Model.dll

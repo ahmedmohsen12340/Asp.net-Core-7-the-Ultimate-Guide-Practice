@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "Hash": "tdMp9gPZar+PAh8UPoWSvYFMF5Kp5V0uuaTnHgxU5vc=",
+  "Source": "ConfigPractice",
+  "BasePath": "_content/ConfigPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConfigPractice\\wwwroot",
+      "Source": "ConfigPractice",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\ConfigurationSln\\ConfigPractice\\wwwroot\\",
+      "BasePath": "_content/ConfigPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\ConfigurationSln\\ConfigPractice\\wwwroot\\MyFramework.css",
+      "SourceId": "ConfigPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\12-DependencyInjection\\ConfigurationSln\\ConfigPractice\\wwwroot\\",
+      "BasePath": "_content/ConfigPractice",
+      "RelativePath": "MyFramework.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyFramework.css"
+    }
+  ]
+}
