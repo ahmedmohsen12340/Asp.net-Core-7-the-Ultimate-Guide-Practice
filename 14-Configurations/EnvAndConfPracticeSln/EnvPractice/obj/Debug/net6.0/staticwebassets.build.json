@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "Hash": "je2V4dOjlKvi0ZbgiLwhUwXzaPuyY0pX4sGx6nRsqg0=",
+  "Source": "EnvPractice",
+  "BasePath": "_content/EnvPractice",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "EnvPractice\\wwwroot",
+      "Source": "EnvPractice",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\EnvAndConfPracticeSln\\EnvPractice\\wwwroot\\",
+      "BasePath": "_content/EnvPractice",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\EnvAndConfPracticeSln\\EnvPractice\\wwwroot\\MyFramework.css",
+      "SourceId": "EnvPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\EnvAndConfPracticeSln\\EnvPractice\\wwwroot\\",
+      "BasePath": "_content/EnvPractice",
+      "RelativePath": "MyFramework.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyFramework.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\EnvAndConfPracticeSln\\EnvPractice\\wwwroot\\Normalization.css",
+      "SourceId": "EnvPractice",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\EnvAndConfPracticeSln\\EnvPractice\\wwwroot\\",
+      "BasePath": "_content/EnvPractice",
+      "RelativePath": "Normalization.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Normalization.css"
+    }
+  ]
+}

@@ -1,0 +1,6 @@
+{
+  "myApp": {
+    "first": "from custom config file",
+    "second": "nananana"
+  }
+}

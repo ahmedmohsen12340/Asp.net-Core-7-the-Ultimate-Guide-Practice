@@ -1,0 +1,14 @@
+﻿@{
+    ViewBag.Title = "Home";
+}
+@model SocialMediaOption
+
+<h1 class="h1 text-center">Social Media Links</h1>
+<div class="flex-row-spacearound mar-20px w-700px">
+    <a class="button1-a" href="@Model.Facebook">FaceBook</a>
+    <environment exclude="Development">
+        <a class="button1-a" href="@Model.Instagram">Instagram</a>
+    </environment>
+    <a class="button1-a" href="@Model.Twitter">Twitter</a>
+    <a class="button1-a" href="@Model.Youtube">Youtube</a>
+</div>
