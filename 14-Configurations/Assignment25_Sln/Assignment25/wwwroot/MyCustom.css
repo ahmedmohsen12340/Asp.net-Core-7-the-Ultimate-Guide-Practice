@@ -1,0 +1,30 @@
+﻿/*header*/
+.header {
+    background-color: #eee;
+    box-shadow: 0 0 10px 10px #616161;
+}
+.header .logo {
+    display: flex;
+    padding: 10px 0;
+}
+.logo > i {
+    font-size: 50px;
+}
+.logo > h1 {
+    padding: 15px 5px;
+    margin: 0;
+}
+
+/*stock data*/
+
+.stockData h3{
+    font-size:40px;
+    font-weight:700;
+}
+.stockData p{
+    font-size: 25px;
+}
+.stockData p span:first-child {
+    color: #9e9e9e;
+    font-size: 30px;
+}

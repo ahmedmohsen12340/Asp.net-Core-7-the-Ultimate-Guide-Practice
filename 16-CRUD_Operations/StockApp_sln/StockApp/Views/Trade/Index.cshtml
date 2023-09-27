@@ -1,0 +1,50 @@
+﻿@{
+    ViewBag.Title = "Trade";
+}
+@model StockTrade
+
+<div class="container">
+    <div class="stockData box flex-row-spacearound">
+        <div class="company">
+            <h3>@Model.StockName</h3>
+            <span class="visible symbol">@Model.StockSymbol</span>
+            <P><span>$</span><span class="price">@Model.Price</span></P>
+        </div>
+        @{
+            DateTime dateTime = DateTime.Now;
+        }
+        <div class="order">
+            <div class="content">
+                <form  method="post">
+                    <h3>New Order</h3>
+                    <label for="quantity">Quantity:</label>
+                    <input type="number" id="quantity" name="Quantity" />
+                    <input type="hidden" value="@Model.StockName" name="StockName" />
+                    <input type="hidden" value="@Model.StockSymbol" name="StockSymbol" />
+                    <input type="hidden" value="@Model.Price" name="Price" />
+                    <input type="hidden" value="@dateTime" name="DateAndTimeOfOrder" />
+                    <div class="sell-buy">
+                        <button formaction="~/Trade/SellOrder" class="sell">
+                            <i class=" fa-solid fa-down-long"></i> Sell
+                        </button>
+                        <button formaction="~/Trade/BuyOrder" class="buy">
+                            <i class=" fa-solid fa-up-long"></i> Buy
+                        </button>
+                    </div>
+                 </form>
+            </div>
+        </div>
+    </div>
+</div>
+@if (ViewBag.errors != null)
+{
+    <ul class="error-list">
+    @foreach (var error in ViewBag.errors)
+    {
+        <li class="error">* @error</li>
+    }
+    </ul>
+}
+@section main{
+    <script src="~/main.js"></script>
+}

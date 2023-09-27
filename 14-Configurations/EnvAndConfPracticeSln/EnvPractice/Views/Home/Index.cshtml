@@ -1,9 +1,11 @@
 ﻿@{
     ViewBag.Title = "Home";
 }
-<div class="round2-card w-300px yellow-700 mar-20px pad-20px text-center">@ViewBag.config</div>
+@model StockData
+@* <div class="round2-card w-300px yellow-700 mar-20px pad-20px text-center">@ViewBag.config</div>
 <environment include="Staging">
 
     <p>Hello Ahmed Mohsen</p>
 
-</environment>
+</environment> *@
+<div>@Model.CurrentPrice</div>

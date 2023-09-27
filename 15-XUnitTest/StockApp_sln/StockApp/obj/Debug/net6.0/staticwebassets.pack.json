@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\15-XUnitTest\\StockApp_sln\\StockApp\\wwwroot\\MyCustom.css",
+      "PackagePath": "staticwebassets\\MyCustom.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\15-XUnitTest\\StockApp_sln\\StockApp\\wwwroot\\MyFramework.css",
+      "PackagePath": "staticwebassets\\MyFramework.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\15-XUnitTest\\StockApp_sln\\StockApp\\wwwroot\\Normalization.css",
+      "PackagePath": "staticwebassets\\Normalization.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\15-XUnitTest\\StockApp_sln\\StockApp\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StockApp.props",
+      "PackagePath": "build\\StockApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StockApp.props",
+      "PackagePath": "buildMultiTargeting\\StockApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StockApp.props",
+      "PackagePath": "buildTransitive\\StockApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

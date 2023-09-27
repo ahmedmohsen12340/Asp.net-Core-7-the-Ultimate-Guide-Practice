@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "Hash": "QvvHAbwpoz+6v+0Ln7eap0oPpD2Fea+ydq8tPp3shus=",
+  "Source": "Assignment25",
+  "BasePath": "_content/Assignment25",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Assignment25\\wwwroot",
+      "Source": "Assignment25",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\",
+      "BasePath": "_content/Assignment25",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\main.js",
+      "SourceId": "Assignment25",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\",
+      "BasePath": "_content/Assignment25",
+      "RelativePath": "main.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\main.js"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\MyCustom.css",
+      "SourceId": "Assignment25",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\",
+      "BasePath": "_content/Assignment25",
+      "RelativePath": "MyCustom.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyCustom.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\MyFramework.css",
+      "SourceId": "Assignment25",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\",
+      "BasePath": "_content/Assignment25",
+      "RelativePath": "MyFramework.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\MyFramework.css"
+    },
+    {
+      "Identity": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\Normalization.css",
+      "SourceId": "Assignment25",
+      "SourceType": "Discovered",
+      "ContentRoot": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\14-Configurations\\Assignment25_Sln\\Assignment25\\wwwroot\\",
+      "BasePath": "_content/Assignment25",
+      "RelativePath": "Normalization.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\Normalization.css"
+    }
+  ]
+}
