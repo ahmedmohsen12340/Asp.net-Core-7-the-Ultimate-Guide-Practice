@@ -1,0 +1,56 @@
+﻿@model Orders
+@{
+    ViewBag.Title = "Orders";
+}
+<div class="container">
+    <div class="orders">
+        @if (Model != null)
+        {
+            <div class="box card">
+                @if (Model.BuyOrders?.Count > 0)
+                {
+                    <h2>Buy Orders</h2>
+                    @foreach (var buyOrder in Model.BuyOrders)
+                    {
+                        <div>
+                            <h3><span>@buyOrder.StockName (@buyOrder.StockSymbol)</span></h3>
+                            <p><span>@buyOrder.Quantity</span> shares at <span>$ @buyOrder.Price</span>  </p>
+                            <p>Trade Amount: <span>$ @String.Format("{0:N2}",buyOrder.TradeAmount)</span></p>
+                            <p>@buyOrder.DateAndTimeOfOrder</p>
+                            <hr>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div>
+                        <p>There are no Buy orders</p>
+                    </div>
+                }
+            </div>
+            <div class="box card">
+                @if (Model.SellOrders?.Count > 0)
+                {
+                    <h2>Sell Orders</h2>
+                    @foreach (var sellOrder in Model.SellOrders)
+                    {
+                        <div>
+                            <h3><span>@sellOrder.StockName (@sellOrder.StockSymbol)</span></h3>
+                            <p><span>@sellOrder.Quantity</span> shares at <span>$ @sellOrder.Price</span>  </p>
+                            <p>Trade Amount: <span>$ @String.Format("{0:N2}",sellOrder.TradeAmount)</span></p>
+                            <p>@sellOrder.DateAndTimeOfOrder</p>
+                            <hr>
+                        </div>
+                    }
+                }
+                else
+                {
+                    <div>
+                        <p>There are no Sell Orders</p>
+                    </div>
+                }
+            </div>
+        }
+    </div>
+
+</div>
