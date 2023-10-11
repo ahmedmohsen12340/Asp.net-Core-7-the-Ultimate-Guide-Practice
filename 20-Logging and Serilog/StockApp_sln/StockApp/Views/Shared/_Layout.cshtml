@@ -1,0 +1,78 @@
+﻿<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>@ViewBag.Title</title>
+    <link rel="stylesheet" href="~/Normalization.css" />
+    <link rel="stylesheet" href="~/MyFramework.css" />
+    <link rel="stylesheet" href="~/MyCustom.css" />
+    @* font awesome library  *@
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.2/css/all.min.css" integrity="sha512-z3gLpd7yknf1YoNbCzqRKc4qyor8gaKU1qmn+CShxbuBusANI9QpRohGBreCFkKxLhei6S9CQXFEbbKuqLg0DA==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+    @* google fonts  *@
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Cairo:wght@200;300;400;500;600;700;800;900;1000&display=swap" rel="stylesheet">
+</head>
+<body>
+    <div>
+        @* header *@
+        <div class="header">
+            <div class="container">
+                <div class="logo">
+                    <i class="fa-solid fa-money-bill-trend-up"></i>
+                    <h1 class="h1">STOCK</h1>
+                </div>
+                <div class="tools">
+                    <input placeholder="Seacrch Stocks" name="Search" class="search"/>
+                    <i class="fa-solid fa-gear"></i>
+                    <a class="login">Login</a>
+                </div>
+            </div>
+            @* nav *@
+            <div class="nav">
+                <div class="container">
+                    <ul>
+                        @switch(ViewBag.path)
+                        {
+                            case "Index":
+                            default:
+                                <li><a asp-controller="Stocks" asp-action="Explore">Explore</a></li>
+                                <li><a asp-controller="Trade" asp-action="Index" class="active">Trade</a></li>
+                                <li><a asp-controller="Trade" asp-action="Orders">Orders</a></li>
+                                <li><a asp-controller="Trade" asp-action="OrdersPDF">Orders As PDF</a></li>
+                                 break;
+                            case "Orders":
+                                <li><a asp-controller="Stocks" asp-action="Explore">Explore</a></li>
+                                <li><a asp-controller="Trade" asp-action="Index">Trade</a></li>
+                                <li><a asp-controller="Trade" asp-action="Orders" class="active">Orders</a></li>
+                                <li><a asp-controller="Trade" asp-action="OrdersPDF">Orders As PDF</a></li>
+                                break;
+                            case "Explore":
+                                <li><a asp-controller="Stocks" asp-action="Explore" class="active">Explore</a></li>
+                                <li><a asp-controller="Trade" asp-action="Index">Trade</a></li>
+                                <li><a asp-controller="Trade" asp-action="Orders">Orders</a></li>
+                                <li><a asp-controller="Trade" asp-action="OrdersPDF">Orders As PDF</a></li>
+                                break;
+                        }                       
+                    </ul>
+                </div>
+            </div>
+        </div>
+        @* Ribbon *@
+        <div class="ribbon">
+            <div class="container">
+                <div class="content">
+                    <span>Stocks</span>
+                    <i class="fa-solid fa-caret-right"></i>
+                    <span>@ViewBag.path</span>
+                </div>
+            </div>
+        </div>
+        @RenderBody()
+    </div>
+    @RenderSection("main",false)
+    @RenderSection("ClientValiation",false)
+    @RenderSection("viewComp",false)
+</body>
+</html>

@@ -1,0 +1,28 @@
+﻿@model List<Stock>
+@{
+    ViewBag.Title = "Explore";
+}
+
+<div class="container flex-row-spacearound">
+    <div class="exploreContent box">
+        <h2>Stocks</h2>
+        <ul>
+            @foreach (var item in Model)
+            {
+                <li>
+                    <div>
+                        <h4>@item.StockName</h4>
+                        <p>(<span>@item.StockSymbol</span>)</p>
+                    </div>
+
+                    <hr />
+                </li>
+            }
+        </ul>
+    </div>
+    <div class="compDetailsComp">
+    </div>
+</div>
+@section viewComp{
+    <script src="~/viewComp.js"></script>
+}
