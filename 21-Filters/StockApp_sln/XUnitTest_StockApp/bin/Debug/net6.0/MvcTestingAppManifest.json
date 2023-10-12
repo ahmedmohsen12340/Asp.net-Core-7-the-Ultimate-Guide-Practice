@@ -1,0 +1,8 @@
+{
+  "Models, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\20-Logging and Serilog\\StockApp_sln\\Models",
+  "Repository, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\20-Logging and Serilog\\StockApp_sln\\Repository",
+  "RepositoryContracts, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\20-Logging and Serilog\\StockApp_sln\\RepositoryContracts",
+  "Services, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\20-Logging and Serilog\\StockApp_sln\\Services",
+  "ServicesContract, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\20-Logging and Serilog\\StockApp_sln\\ServicesContract",
+  "StockApp, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\20-Logging and Serilog\\StockApp_sln\\StockApp"
+}

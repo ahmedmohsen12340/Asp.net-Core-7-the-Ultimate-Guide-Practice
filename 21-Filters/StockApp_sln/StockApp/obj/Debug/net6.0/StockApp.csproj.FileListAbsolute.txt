@@ -1,0 +1,624 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Assignment25\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Identity.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.CodeDom.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Identity.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.CodeDom.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Repository.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\RepositoryContracts.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\RepositoryContracts.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\StockApp\bin\Debug\net6.0\Repository.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Identity.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.CodeDom.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Repository.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\RepositoryContracts.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\RepositoryContracts.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Repository.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.Development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\appsettings.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.staticwebassets.runtime.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.exe
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Azure.Identity.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Humanizer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.JsonPatch.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Mvc.Razor.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.AspNetCore.Razor.Language.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.CSharp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.CodeAnalysis.Razor.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Caching.Memory.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Configuration.Binder.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.DependencyModel.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Hosting.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Http.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Options.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Extensions.Primitives.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Identity.Client.Extensions.Msal.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Abstractions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.SqlServer.Server.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Mono.TextTemplating.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Newtonsoft.Json.Bson.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Rotativa.AspNetCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.AspNetCore.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Extensions.Hosting.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Extensions.Logging.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Formatting.Compact.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Settings.Configuration.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.Console.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.Debug.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.File.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.PeriodicBatching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Serilog.Sinks.Seq.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.CodeDom.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Memory.Data.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Security.Permissions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Text.Json.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\browser\lib\net6.0\System.Text.Encodings.Web.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Repository.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\RepositoryContracts.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Services.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\RepositoryContracts.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Repository.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\ServicesContract.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\bin\Debug\net6.0\Services.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.MvcApplicationPartsAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.RazorAssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.build.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.StockApp.props
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.pack.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.build.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\staticwebassets.development.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\scopedcss\bundle\StockApp.styles.css
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\refint\StockApp.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\StockApp.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\StockApp\obj\Debug\net6.0\ref\StockApp.dll
