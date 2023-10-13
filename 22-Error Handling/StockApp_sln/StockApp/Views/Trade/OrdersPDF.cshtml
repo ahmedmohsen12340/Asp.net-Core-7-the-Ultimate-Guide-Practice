@@ -1,0 +1,52 @@
+﻿@model Orders
+@{
+    Layout = null;
+}
+<link href=@("http://" +Context.Request.Host.ToString()+"/Normalization.css") rel="stylesheet"/>
+<link href=@("http://" +Context.Request.Host.ToString()+"/MyFramework.css") rel="stylesheet"/>
+<link href=@("http://" +Context.Request.Host.ToString()+"/MyCustom.css") rel="stylesheet"/>
+<div class="container">
+    <h1>Orders</h1>
+    <table class="ordersTable">
+        <thead>
+            <tr>
+                <th>Date and Time</th>
+                <th>Stock</th>
+                <th>OrderType</th>
+                <th>Quantity</th>
+                <th>Price</th>
+                <th>Trade Amount</th>            
+            </tr>
+        </thead>
+        <tbody>
+            @if (Model != null && Model.BuyOrders!=null)
+            {
+                @foreach (var buyorder in Model.BuyOrders)
+                {
+                    <tr>
+                        <td>@buyorder.DateAndTimeOfOrder</td>
+                        <td>@buyorder.StockName (@buyorder.StockSymbol)</td>
+                        <td>Buy Order</td>
+                        <td>@buyorder.Quantity</td>
+                        <td>$ @buyorder.Price</td>
+                        <td>$ @String.Format("{0:N2}",buyorder.TradeAmount)</td>
+                    </tr>
+                }
+            }
+            @if (Model != null && Model.SellOrders != null)
+            {
+                @foreach (var sellorder in Model.SellOrders)
+                {
+                    <tr>
+                        <td>@sellorder.DateAndTimeOfOrder</td>
+                        <td>@sellorder.StockName (@sellorder.StockSymbol)</td>
+                        <td>Sell Order</td>
+                        <td>@sellorder.Quantity</td>
+                        <td>$ @sellorder.Price</td>
+                        <td>$ @String.Format("{0:N2}",sellorder.TradeAmount)</td>
+                    </tr>
+                }
+            }
+        </tbody>
+    </table>
+</div>

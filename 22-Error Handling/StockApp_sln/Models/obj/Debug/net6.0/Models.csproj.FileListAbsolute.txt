@@ -1,0 +1,114 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\14-Configurations\Assignment25_Sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\15-XUnitTest\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\16-CRUD_Operations\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\17-TagHelpers\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\18-EntityFrameWork\StockApp_sln\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\19-Moq and Repository\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\20-Logging and Serilog\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\21-Filters\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\bin\Debug\net6.0\Models.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\bin\Debug\net6.0\Models.runtimeconfig.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\bin\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\bin\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\refint\Models.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\Models.genruntimeconfig.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\22-Error Handling\StockApp_sln\Models\obj\Debug\net6.0\ref\Models.dll
