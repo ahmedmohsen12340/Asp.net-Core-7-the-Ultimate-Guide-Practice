@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\MyCustom.css",
+      "PackagePath": "staticwebassets\\MyCustom.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\MyFramework.css",
+      "PackagePath": "staticwebassets\\MyFramework.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\Normalization.css",
+      "PackagePath": "staticwebassets\\Normalization.css"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\Rotitva\\wkhtmltopdf.exe",
+      "PackagePath": "staticwebassets\\Rotitva\\wkhtmltopdf.exe"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\error.svg",
+      "PackagePath": "staticwebassets\\error.svg"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\jQuerylibraries\\cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.19.5_jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\jQuerylibraries\\cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.19.5_jquery.validate.min.js"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\jQuerylibraries\\cdnjs.cloudflare.com_ajax_libs_jquery-validation-unobtrusive_4.0.0_jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\jQuerylibraries\\cdnjs.cloudflare.com_ajax_libs_jquery-validation-unobtrusive_4.0.0_jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\jQuerylibraries\\cdnjs.cloudflare.com_ajax_libs_jquery_3.7.1_jquery.min.js",
+      "PackagePath": "staticwebassets\\jQuerylibraries\\cdnjs.cloudflare.com_ajax_libs_jquery_3.7.1_jquery.min.js"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\main.js",
+      "PackagePath": "staticwebassets\\main.js"
+    },
+    {
+      "Id": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\23-Solid Principles\\StockApp_sln\\StockApp\\wwwroot\\viewComp.js",
+      "PackagePath": "staticwebassets\\viewComp.js"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.StockApp.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.StockApp.props",
+      "PackagePath": "build\\StockApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.StockApp.props",
+      "PackagePath": "buildMultiTargeting\\StockApp.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.StockApp.props",
+      "PackagePath": "buildTransitive\\StockApp.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,56 @@
+﻿@{
+    ViewBag.Title = "Trade";
+}
+@model StockTrade
+
+<div class="container">
+    <div class="stockData box flex-row-spacearound">
+        <div class="company">
+            <h3>@Model.StockName</h3>
+            <span class="visible symbol">@Model.StockSymbol</span>
+            <P><span>$</span><span class="price">@Model.Price</span></P>
+        </div>
+        @{
+            DateTime dateTime = DateTime.Now;
+        }
+        <div class="order">
+            <div class="content">
+                <form  method="post">
+                    <h3>New Order</h3>
+                    <label asp-for="Quantity">Quantity:</label>
+                    <input asp-for="Quantity" type="number"/>
+                    <input type="hidden" asp-for="StockName" />
+                    <input type="hidden" asp-for="StockSymbol"/>
+                    <input type="hidden" asp-for="Price" />
+                    <input type="hidden" value="@dateTime" name="DateAndTimeOfOrder" />
+                    <div class="sell-buy">
+                        <button asp-controller="Trade" asp-action="SellOrder" class="sell">
+                            <i class=" fa-solid fa-down-long"></i> Sell
+                        </button>
+                        <button asp-controller="Trade" asp-action="BuyOrder" class="buy">
+                            <i class=" fa-solid fa-up-long"></i> Buy
+                        </button>
+                    </div>
+                    <span asp-validation-for="Quantity" class="validation-Quantity"></span>
+                 </form>
+            </div>
+        </div>
+    </div>
+</div>
+@if (ViewBag.errors != null)
+{
+    <ul class="error-list">
+    @foreach (var error in ViewBag.errors)
+    {
+        <li class="error">* @error</li>
+    }
+    </ul>
+}
+@section main{
+    <script src="~/main.js"></script>
+}
+@section ClientValiation{
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.7.1/jquery.min.js" asp-fallback-test="window.jQuery" asp-fallback-src="~/jQuerylibraries/cdnjs.cloudflare.com_ajax_libs_jquery_3.7.1_jquery.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validate/1.19.5/jquery.validate.min.js" asp-fallback-test="window.jQuery.validator" asp-fallback-src="~/jQuerylibraries/cdnjs.cloudflare.com_ajax_libs_jquery-validate_1.19.5_jquery.validate.min.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-validation-unobtrusive/4.0.0/jquery.validate.unobtrusive.min.js" asp-fallback-test="window.jQuery.validator.unobtrusive" asp-fallback-src="~/jQuerylibraries/cdnjs.cloudflare.com_ajax_libs_jquery-validation-unobtrusive_4.0.0_jquery.validate.unobtrusive.min.js"></script>
+}

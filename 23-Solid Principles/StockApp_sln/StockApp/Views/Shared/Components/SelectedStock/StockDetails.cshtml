@@ -1,0 +1,10 @@
+﻿@model CompanyDetails
+
+<div class="">
+    <img src="@Model.StockImage" />
+    <h4>@Model.StockName<span>(@Model.StockSymbol)</span></h4>
+    <span>@Model.Industry</span>
+    <p>Exchange: <span>@Model.Exchange</span></p>
+    <p>$ <span>@Model.Price</span></p>
+    <a href="~/Trade/Index/@Model.StockSymbol">Trade Now</a>
+</div>
