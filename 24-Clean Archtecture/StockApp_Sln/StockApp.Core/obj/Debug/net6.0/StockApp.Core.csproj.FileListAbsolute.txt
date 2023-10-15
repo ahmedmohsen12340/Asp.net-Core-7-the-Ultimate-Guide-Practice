@@ -1,0 +1,12 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\bin\Debug\net6.0\StockApp.Core.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\bin\Debug\net6.0\StockApp.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\bin\Debug\net6.0\StockApp.Core.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\refint\StockApp.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\StockApp.Core.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Core\obj\Debug\net6.0\ref\StockApp.Core.dll

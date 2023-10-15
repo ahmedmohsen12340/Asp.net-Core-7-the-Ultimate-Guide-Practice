@@ -1,0 +1,5 @@
+{
+  "StockApp.Core, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\24-Clean Archtecture\\StockApp_Sln\\StockApp.Core",
+  "StockApp.Infrastucture, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\24-Clean Archtecture\\StockApp_Sln\\StockApp.Infrastucture",
+  "StockApp.UI, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null": "E:\\Courses\\Programming\\Programming projects\\Asp.net-Core-7-the-Ultimate-Guide-Practice\\24-Clean Archtecture\\StockApp_Sln\\StockApp"
+}

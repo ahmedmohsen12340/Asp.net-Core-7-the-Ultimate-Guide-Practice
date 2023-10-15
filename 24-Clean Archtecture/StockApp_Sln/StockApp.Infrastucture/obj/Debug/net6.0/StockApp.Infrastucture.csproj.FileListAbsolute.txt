@@ -1,0 +1,15 @@
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.GeneratedMSBuildEditorConfig.editorconfig
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.AssemblyInfoInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.AssemblyInfo.cs
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.csproj.CoreCompileInputs.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.csproj.AssemblyReference.cache
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\bin\Debug\net6.0\StockApp.Infrastucture.deps.json
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\bin\Debug\net6.0\StockApp.Infrastucture.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\bin\Debug\net6.0\StockApp.Infrastucture.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\bin\Debug\net6.0\StockApp.Core.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\bin\Debug\net6.0\StockApp.Core.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.csproj.CopyComplete
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\refint\StockApp.Infrastucture.dll
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\StockApp.Infrastucture.pdb
+E:\Courses\Programming\Programming projects\Asp.net-Core-7-the-Ultimate-Guide-Practice\24-Clean Archtecture\StockApp_Sln\StockApp.Infrastucture\obj\Debug\net6.0\ref\StockApp.Infrastucture.dll
